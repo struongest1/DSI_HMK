@@ -1,0 +1,11 @@
+dataset:  'C:\Users\TruongJ\Documents\Github\Homework\Software\DSI_HMK\ttc-bus-delay-data-2023.xlsx'
+
+plot_config:
+  title: Mean Delays per DoW
+  ylabel: Mean Delays (min)
+  xlabel: Day of Week 
+
+# this is a comment YAML With a bunch of random data in it 
+columns:
+  - Mean_Delay
+  - Mean_Gap
